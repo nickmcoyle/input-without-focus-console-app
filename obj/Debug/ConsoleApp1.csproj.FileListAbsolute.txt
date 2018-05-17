@@ -5,3 +5,10 @@ C:\Users\Nick Coyle\Documents\Education\C++UW\UW C++\C++ Intermediate\Assignment
 C:\Users\Nick Coyle\Documents\Education\C++UW\UW C++\C++ Intermediate\Assignments\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Nick Coyle\Documents\Education\C++UW\UW C++\C++ Intermediate\Assignments\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Nick Coyle\Documents\Education\C++UW\UW C++\C++ Intermediate\Assignments\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nick Coyle\Desktop\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
